@@ -10,6 +10,7 @@ function App() {
           <li className="red">RED</li>
           <li className="blue">BLUE</li>
           <li className="yellow">YELLOW</li>
+          <li className="lime">LIME</li>
         </ul>
       </div>
     </div>
