@@ -1,0 +1,30 @@
+.App {
+  font-size: 24px;
+}
+
+.colour_of_day {
+  color: green;
+}
+
+.color_container {
+  background-color: rgb(170, 223, 255);
+  margin: 20px;
+  border-radius: 10px;
+  padding: 10px
+}
+
+.heading {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: yellow;
+}
