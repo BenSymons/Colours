@@ -7,10 +7,18 @@ function App() {
       <div className="color_container">
       <p>Other colours are:</p>
         <div>
-          <p className="limme">LIME</p>
-          <p className="yellow">YELLOW</p>
-          <p className="blue">BLUE</p>
-          <p className="red">RED</p>
+          <div>
+            <p className="limme">LIME</p>
+          </div>
+          <div>
+            <p className="yellow">YELLOW</p>
+          </div>
+          <div>
+            <p className="blue">BLUE</p>
+          </div>
+          <div>
+            <p className="red">RED</p>
+          </div>
         </div>
       </div>
     </div>
