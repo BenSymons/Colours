@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1 className="heading">
         Today, the colour of the day is
-        <span className="colour_of_day">TEAL</span>
+        <span className="colour_of_day">BLUE</span>
       </h1>
       <div className="color_container">
         <p>Other colours are:</p>
